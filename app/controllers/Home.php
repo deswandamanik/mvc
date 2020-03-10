@@ -2,7 +2,7 @@
 
 
 class Home {
-  public funtion index()
+  public function index()
   {
     echo 'home/index';
   }
